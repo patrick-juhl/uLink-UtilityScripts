@@ -1,0 +1,5 @@
+*.meta
+Editor
+*.csproj
+ProjectSettings
+License.txt
