@@ -10,7 +10,7 @@ Feel free to send pull request for changes to existing or when sharing new scrip
 License information
 ====================
 
-Scripts shared in this are available under the MIT license as follows:
+Scripts shared in this repository are available under the MIT license as follows:
 
 Copyright (c) 2014 MuchDifferent
 
